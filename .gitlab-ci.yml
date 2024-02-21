@@ -1,0 +1,9 @@
+include:
+  - project: aerialls/renovate-calver
+    ref: 2023.12.26.0
+    file: jobs.yml
+
+base:
+  extends: .base
+  script:
+    - echo "Hello"
