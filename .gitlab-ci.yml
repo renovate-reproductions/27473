@@ -1,6 +1,6 @@
 include:
   - project: jbrochet/repository-calver
-    ref: 2023.12.26.0
+    ref: 2024.02.21.1
     file: jobs.yml
 
 base:
