@@ -2,7 +2,6 @@
   "packageRules": [
     {
       "matchDatasources": ["gitlab-tags"],
-      "matchPackageNames": ["aerialls/renovate-calver"],
       "versioning": "regex:^(?<major>\\d+)\\.(?<minor>\\d+)\\.(?<patch>\\d+)\\.(?<build>\\d+)$"
     }
   ],
