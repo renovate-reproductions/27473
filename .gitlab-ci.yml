@@ -1,5 +1,5 @@
 include:
-  - project: aerialls/renovate-calver
+  - project: jbrochet/repository-calver
     ref: 2023.12.26.0
     file: jobs.yml
 

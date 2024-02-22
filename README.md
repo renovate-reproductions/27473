@@ -1,6 +1,6 @@
 # Description
 
-The `aerialls/renovate-calver` repository contains two tags using [CalVer](https://calver.org/).
+The [jbrochet/repository-calver](https://gitlab.com/jbrochet/repository-calver) repository contains two tags using [CalVer](https://calver.org/).
 
 * 2023.12.26.0
 * 2024.02.21.1
